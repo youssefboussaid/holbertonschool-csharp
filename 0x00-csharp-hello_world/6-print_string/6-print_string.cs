@@ -4,12 +4,9 @@ class Program
 {
 	static void Main(string[] args)
 	{
-        int i = 0;
 		string str = "Holberton School";
-        for (i=0; i<=2;i++){
-            Console.Write(str);
-        }
-        Console.Write("\n");
+        string str2 = $"{str}{str}{str}\n";
+        Console.Write(str2);
         Console.WriteLine(str.Substring(0, 9));
         }
 }

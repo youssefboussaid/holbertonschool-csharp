@@ -2,11 +2,11 @@
 
 namespace _3_writeline
 {
-    class Hello
+    class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-        Console.WriteLine(@"""Programming is like building a multilingual puzzle");
+            Console.WriteLine("\"Programming is like building a multilingual puzzle");
         }
     }
 }

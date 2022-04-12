@@ -1,0 +1,11 @@
+/home/youzar/yyy/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.1/9-print_specifiers.deps.json
+/home/youzar/yyy/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.1/9-print_specifiers.runtimeconfig.json
+/home/youzar/yyy/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.1/9-print_specifiers.runtimeconfig.dev.json
+/home/youzar/yyy/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.1/9-print_specifiers.dll
+/home/youzar/yyy/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/bin/Debug/netcoreapp2.1/9-print_specifiers.pdb
+/home/youzar/yyy/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.csprojAssemblyReference.cache
+/home/youzar/yyy/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.csproj.CoreCompileInputs.cache
+/home/youzar/yyy/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.AssemblyInfoInputs.cache
+/home/youzar/yyy/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.AssemblyInfo.cs
+/home/youzar/yyy/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.dll
+/home/youzar/yyy/holbertonschool-csharp/0x00-csharp-hello_world/9-print_specifiers/obj/Debug/netcoreapp2.1/9-print_specifiers.pdb

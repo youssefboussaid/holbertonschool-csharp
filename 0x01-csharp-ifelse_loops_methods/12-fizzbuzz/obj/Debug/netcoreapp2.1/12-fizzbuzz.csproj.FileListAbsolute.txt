@@ -1,0 +1,11 @@
+/home/youzar/yyy/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp2.1/12-fizzbuzz.deps.json
+/home/youzar/yyy/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp2.1/12-fizzbuzz.runtimeconfig.json
+/home/youzar/yyy/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp2.1/12-fizzbuzz.runtimeconfig.dev.json
+/home/youzar/yyy/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp2.1/12-fizzbuzz.dll
+/home/youzar/yyy/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/netcoreapp2.1/12-fizzbuzz.pdb
+/home/youzar/yyy/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.csprojAssemblyReference.cache
+/home/youzar/yyy/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.csproj.CoreCompileInputs.cache
+/home/youzar/yyy/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.AssemblyInfoInputs.cache
+/home/youzar/yyy/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.AssemblyInfo.cs
+/home/youzar/yyy/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.dll
+/home/youzar/yyy/holbertonschool-csharp/0x01-csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/netcoreapp2.1/12-fizzbuzz.pdb

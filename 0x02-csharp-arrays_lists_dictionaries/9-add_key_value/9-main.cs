@@ -19,7 +19,7 @@ class Program
 
         Console.WriteLine("------------------");
 
-        key = "city";
+        key = "school";
         value = "San Francisco";
 
         Dictionary.AddKeyValue(myDict, key, value);

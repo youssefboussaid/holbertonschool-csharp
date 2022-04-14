@@ -6,7 +6,7 @@ using System.Collections.Generic;
     {
         public static string BestScore(Dictionary<string, int> myList)
         {   
-            string best_student = "aa";
+            string best_student = "None";
             int max_score = 0;
             foreach(KeyValuePair<string, int> element in myList)
             {

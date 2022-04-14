@@ -10,7 +10,7 @@ using System.Collections.Generic;
             List<bool> list = new List<bool>();
             for (i = 0; i < myList.Count; i++)
             {
-                if (i % 2 == 0)
+                if (myList[i] % 2 == 0)
                     list.Add(true);
                 else
                     list.Add(false);

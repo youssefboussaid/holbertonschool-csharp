@@ -1,5 +1,4 @@
-﻿
-namespace Enemies
+﻿namespace Enemies
 {
     /// <summary>
     /// empty zombie class

@@ -1,7 +1,10 @@
-﻿namespace Enemies
+﻿using System;
+
+namespace Enemies
 {
+    // This class is empty.
     /// <summary>
-    /// empty zombie class
+    /// This class is empty.
     /// </summary>
     public class Zombie
     {

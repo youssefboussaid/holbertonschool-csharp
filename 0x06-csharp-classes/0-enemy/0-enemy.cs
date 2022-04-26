@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿
 namespace Enemies
 {
     /// <summary>

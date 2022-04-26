@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/youzar bsd/Documents/GitHub/holbertonschool-csharp/2-dog/2-dog.csproj",
+      "projectUniqueName": "/mnt/c/Users/youzar bsd/Documents/GitHub/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/2-dog.csproj",
       "projectName": "2-dog",
-      "projectPath": "/mnt/c/Users/youzar bsd/Documents/GitHub/holbertonschool-csharp/2-dog/2-dog.csproj",
+      "projectPath": "/mnt/c/Users/youzar bsd/Documents/GitHub/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/2-dog.csproj",
       "packagesPath": "/home/youzar/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/youzar bsd/Documents/GitHub/holbertonschool-csharp/2-dog/obj/",
+      "outputPath": "/mnt/c/Users/youzar bsd/Documents/GitHub/holbertonschool-csharp/0x05-csharp-structs_enums/2-dog/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

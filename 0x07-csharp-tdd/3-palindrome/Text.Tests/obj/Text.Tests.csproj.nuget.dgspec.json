@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/youzar/yyy/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/Text.Tests/Text.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/youzar/yyy/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/Text.Tests/Text.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/youzar/yyy/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/Text.Tests/Text.Tests.csproj",
+        "projectName": "Text.Tests",
+        "projectPath": "/home/youzar/yyy/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/Text.Tests/Text.Tests.csproj",
+        "packagesPath": "/home/youzar/.nuget/packages/",
+        "outputPath": "/home/youzar/yyy/holbertonschool-csharp/0x07-csharp-tdd/3-palindrome/Text.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/youzar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net60"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net60": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net60": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

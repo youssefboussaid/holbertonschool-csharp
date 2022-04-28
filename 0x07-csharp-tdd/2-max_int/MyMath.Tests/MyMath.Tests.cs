@@ -1,4 +1,5 @@
 using NUnit.Framework;
+using System.Collections.Generic;
 
 namespace MyMath.Tests
 {
@@ -46,5 +47,6 @@ namespace MyMath.Tests
             List<int> l = new List<int>();
             Assert.AreEqual(MyMath.Operations.Max(l), 0);
         }
+
     }
 }

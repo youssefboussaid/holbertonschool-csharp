@@ -15,15 +15,18 @@ namespace MyMath
         /// </summary>
         /// <param name="nums">List of integers</param>
         /// <returns>Integer: the max integer</returns>
-            if (nums.Count == 0)
-                return 0;
             int max = 0;
-            foreach (int i in nums)
+            if (nums.Count > 0)
             {
-                if (i > max)
-                    max = i;
+                foreach (int i in nums)
+                {
+                    if (i > max)
+                        max = i;
+                }
+                return max;
             }
-            return max;
+            else
+                return 0;
         }
     }
 }

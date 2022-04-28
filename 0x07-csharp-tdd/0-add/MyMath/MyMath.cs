@@ -2,7 +2,7 @@
 
 namespace MyMath
 {
-/// <summary>
+    /// <summary>
 ///  Mathematic Operation
 /// </summary>
     public class Operations

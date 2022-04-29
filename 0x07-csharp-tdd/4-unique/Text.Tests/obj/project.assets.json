@@ -222,11 +222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/youzar/yyy/holbertonschool-csharp/0x07-csharp-tdd/4-unique/Text.Test/Text.Test.csproj",
-      "projectName": "Text.Test",
-      "projectPath": "/home/youzar/yyy/holbertonschool-csharp/0x07-csharp-tdd/4-unique/Text.Test/Text.Test.csproj",
+      "projectUniqueName": "/home/youzar/yyy/holbertonschool-csharp/0x07-csharp-tdd/4-unique/Text.Tests/Text.Tests.csproj",
+      "projectName": "Text.Tests",
+      "projectPath": "/home/youzar/yyy/holbertonschool-csharp/0x07-csharp-tdd/4-unique/Text.Tests/Text.Tests.csproj",
       "packagesPath": "/home/youzar/.nuget/packages/",
-      "outputPath": "/home/youzar/yyy/holbertonschool-csharp/0x07-csharp-tdd/4-unique/Text.Test/obj/",
+      "outputPath": "/home/youzar/yyy/holbertonschool-csharp/0x07-csharp-tdd/4-unique/Text.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

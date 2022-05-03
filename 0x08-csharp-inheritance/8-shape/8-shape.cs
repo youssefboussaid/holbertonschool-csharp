@@ -1,11 +1,11 @@
 ﻿using System;
 /// <summary>
-/// class Shape
+/// Shape class contains one method Area().
 /// </summary>
 class Shape
 {
     /// <summary>
-    /// Throw Error
+    /// Throws an NotImplementedException with the message Area() is not implemented.
     /// </summary>
     /// <returns></returns>
     public virtual int Area()
@@ -14,41 +14,60 @@ class Shape
     }
 }
 
+/// <summary>
+///  Class Rectangle that inherits from Shape.
+/// </summary>
 class Rectangle : Shape
 {
-    /// <summary>
-    /// class Ractangle
-    /// </summary>
     private int width;
     private int height;
+    /// <summary>
+    /// width setter and getter.
+    /// </summary>
     public int Width
     {
-    
-        get { return width;}
+        get
+        {
+            return width;
+        }
         set
         {
             if (value < 0)
                 throw new ArgumentException("Width must be greater than or equal to 0");
-            else
-                width = value;
+            width = value;
         }
     }
+
+    /// <summary>
+    /// height setter and getter.
+    /// </summary>
     public int Height
     {
-        get { return height;}
+        get
+        {
+            return height;
+        }
         set
         {
             if (value < 0)
                 throw new ArgumentException("Height must be greater than or equal to 0");
-            else
-                height = value;
+            height = value;
         }
     }
+
+    /// <summary>
+    /// returns the area of the rectangle
+    /// </summary>
+    /// <returns></returns>
     public new int Area()
     {
-        return this.height * this.width;
+        return (this.height * this.width);
     }
 
+    /// <summary>
+    /// returns the area of the rectangle
+    /// </summary>
+    /// <returns></returns>
     public override string ToString()
     {
         return $"[Rectangle] {this.width} / {this.height}";
@@ -59,21 +78,22 @@ class Square : Rectangle
 {
     private int size;
 
+    /// <summary>
+    /// size setter and getter.
+    /// </summary>
     public int Size
     {
-        get {return size;}
+        get
+        {
+            return size;
+        }
         set
         {
-            if (value > 0)
-            {
+            if (value < 0)
                 throw new ArgumentException("Size must be greater than or equal to 0");
-            }
-            else
-            {
-                size = value;
-                base.Height = value;
-                base.Width = value;
-            }
+            size = value;
+            this.Width = value;
+            this.Height = value;
         }
     }
 }

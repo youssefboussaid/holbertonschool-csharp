@@ -1,0 +1,11 @@
+/home/youzar/yyy/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/obj/Debug/netcoreapp2.1/6-vector_addition.csprojAssemblyReference.cache
+/home/youzar/yyy/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/obj/Debug/netcoreapp2.1/6-vector_addition.csproj.CoreCompileInputs.cache
+/home/youzar/yyy/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/obj/Debug/netcoreapp2.1/6-vector_addition.AssemblyInfoInputs.cache
+/home/youzar/yyy/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/obj/Debug/netcoreapp2.1/6-vector_addition.AssemblyInfo.cs
+/home/youzar/yyy/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/bin/Debug/netcoreapp2.1/6-vector_addition.deps.json
+/home/youzar/yyy/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/bin/Debug/netcoreapp2.1/6-vector_addition.runtimeconfig.json
+/home/youzar/yyy/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/bin/Debug/netcoreapp2.1/6-vector_addition.runtimeconfig.dev.json
+/home/youzar/yyy/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/bin/Debug/netcoreapp2.1/6-vector_addition.dll
+/home/youzar/yyy/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/bin/Debug/netcoreapp2.1/6-vector_addition.pdb
+/home/youzar/yyy/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/obj/Debug/netcoreapp2.1/6-vector_addition.dll
+/home/youzar/yyy/holbertonschool-csharp/0x09-csharp-linear_algebra/6-vector_addition/obj/Debug/netcoreapp2.1/6-vector_addition.pdb

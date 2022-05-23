@@ -1,17 +1,9 @@
 ﻿using System;
-/// <summary>
-/// VectorMath: Class
-/// </summary>
     class VectorMath
     {
-        
-        public static double Magnitude(double[] vector)
+                public static double Magnitude(double[] vector)
         {
-            /// <summary>
-    /// Calculates a given vector magnitude
-    /// </summary>
-    /// <param name="vector">the vector</param>
-    /// <returns>Magntiude of the vector</returns>
+         
             double x = 0;
             if (vector.Length !=3 && vector.Length !=2)
                 return -1;

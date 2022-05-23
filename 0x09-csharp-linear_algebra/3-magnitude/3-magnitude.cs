@@ -1,6 +1,6 @@
 ﻿using System;
 /// <summary>
-/// VectorMath class
+/// VectorMath: Class
 /// </summary>
     class VectorMath
     {
@@ -8,10 +8,10 @@
         public static double Magnitude(double[] vector)
         {
             /// <summary>
-            /// Calculate Magnitude of 2D or 3D vectore
-            /// </summary>
-            /// <param name="vector">vector</param>
-            /// <returns>magnitude or -1 if its not a vector</returns>
+    /// Calculates a given vector magnitude
+    /// </summary>
+    /// <param name="vector">the vector</param>
+    /// <returns>Magntiude of the vector</returns>
             double x = 0;
             if (vector.Length !=3 && vector.Length !=2)
                 return -1;

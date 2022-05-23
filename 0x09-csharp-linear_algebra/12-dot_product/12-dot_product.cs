@@ -5,14 +5,16 @@
 /// </summary>
     class VectorMath
     {
-        public static double DotProduct(double[] vector1, double[] vector2)
-        {
-             /// <summary>
+        /// <summary>
     /// Calculates dot product of two vectors
     /// </summary>
     /// <param name="vector1">first vector</param>
     /// <param name="vector2">second vector</param>
     /// <returns>dot product of the two vectors</returns>
+        public static double DotProduct(double[] vector1, double[] vector2)
+        {
+        
+
             if (vector1.Length != vector2.Length ||
             vector1.Length < 2 || vector2.Length > 3 ||
             vector2.Length < 2 || vector2.Length > 3)

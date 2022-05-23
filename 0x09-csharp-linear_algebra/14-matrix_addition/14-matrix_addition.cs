@@ -6,6 +6,12 @@
 
     class Program
     {
+        /// <summary>
+    /// Adds elements of two matrices
+    /// </summary>
+    /// <param name="matrix1"></param>
+    /// <param name="matrix2"></param>
+    /// <returns>sum of two matrices</returns>
         public static double[,] Add(double[,] matrix1, double[,] matrix2)
         {
             if (matrix1.Length != matrix2.Length ||

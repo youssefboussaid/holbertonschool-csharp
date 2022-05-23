@@ -1,6 +1,16 @@
 ﻿using System;
+
+/// <summary>
+/// VectorMath: Class
+/// </summary>
+
     class VectorMath
     {
+        /// <summary>
+    /// Calculates a given vector magnitude
+    /// </summary>
+    /// <param name="vector">the vector</param>
+    /// <returns>Magntiude of the vector</returns>
         
         public static double Magnitude(double[] vector)
         {

@@ -2,6 +2,8 @@
 /// <summary>
 /// class MatrixMath
 /// </summary>
+
+
     class MatrixMath
     {
         public static double[,] Multiply(double[,] matrix1, double[,] matrix2)
@@ -16,7 +18,7 @@
             {
                 for (int j = 0; j < matrix2.GetLength(1); j++)
                 {
-                    for (int k = 0; k < matrix2.GetLength(0); k++)
+                    for (int k = 0; k < matrix1.GetLength(1); k++)
                     {
                         A[i, j] += matrix1[i , k] * matrix2[k , j];
                     }

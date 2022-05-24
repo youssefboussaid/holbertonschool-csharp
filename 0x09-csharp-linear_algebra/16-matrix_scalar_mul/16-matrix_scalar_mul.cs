@@ -5,6 +5,12 @@
 /// </summary>
 class MatrixMath
 {
+    /// <summary>
+    /// Multiply matrix by scalar
+    /// </summary>
+    /// <param name="matrix"> Matrix 2D or 3D</param>
+    /// <param name="scalar">Scalar</param>
+    /// <returns>the product of matrice and scalar or -1 if not possible</returns>
 	public static double[,] MultiplyScalar(double[,] matrix, double scalar)
     {
         if (matrix.Length < 2 || matrix.GetLength(0) != matrix.GetLength(1))

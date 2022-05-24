@@ -1,6 +1,8 @@
 ﻿using System;
 
-
+/// <summary>
+/// class MatrixMath
+/// </summary>
 class MatrixMath
 {
 	public static double[,] MultiplyScalar(double[,] matrix, double scalar)

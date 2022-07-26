@@ -1,0 +1,12 @@
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/obj/Debug/netcoreapp2.1/5-concatenate.csprojAssemblyReference.cache
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/obj/Debug/netcoreapp2.1/5-concatenate.csproj.CoreCompileInputs.cache
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/obj/Debug/netcoreapp2.1/5-concatenate.AssemblyInfoInputs.cache
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/obj/Debug/netcoreapp2.1/5-concatenate.AssemblyInfo.cs
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/bin/Debug/netcoreapp2.1/5-concatenate.xml
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/bin/Debug/netcoreapp2.1/5-concatenate.deps.json
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/bin/Debug/netcoreapp2.1/5-concatenate.runtimeconfig.json
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/bin/Debug/netcoreapp2.1/5-concatenate.runtimeconfig.dev.json
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/bin/Debug/netcoreapp2.1/5-concatenate.dll
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/bin/Debug/netcoreapp2.1/5-concatenate.pdb
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/obj/Debug/netcoreapp2.1/5-concatenate.dll
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/5-concatenate/obj/Debug/netcoreapp2.1/5-concatenate.pdb

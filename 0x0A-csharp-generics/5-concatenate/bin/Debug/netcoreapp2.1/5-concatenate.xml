@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-concatenate</name>
+    </assembly>
+    <members>
+        <member name="T:Queue`1">
+            <summary>
+             class Queue
+             </summary>
+             <typeparam name="T"></typeparam>//
+        </member>
+    </members>
+</doc>

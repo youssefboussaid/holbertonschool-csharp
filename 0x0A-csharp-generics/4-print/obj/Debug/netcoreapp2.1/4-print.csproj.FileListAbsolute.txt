@@ -1,0 +1,12 @@
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/4-print/obj/Debug/netcoreapp2.1/4-print.csprojAssemblyReference.cache
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/4-print/obj/Debug/netcoreapp2.1/4-print.csproj.CoreCompileInputs.cache
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/4-print/obj/Debug/netcoreapp2.1/4-print.AssemblyInfoInputs.cache
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/4-print/obj/Debug/netcoreapp2.1/4-print.AssemblyInfo.cs
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/4-print/bin/Debug/netcoreapp2.1/4-print.xml
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/4-print/bin/Debug/netcoreapp2.1/4-print.deps.json
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/4-print/bin/Debug/netcoreapp2.1/4-print.runtimeconfig.json
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/4-print/bin/Debug/netcoreapp2.1/4-print.runtimeconfig.dev.json
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/4-print/bin/Debug/netcoreapp2.1/4-print.dll
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/4-print/bin/Debug/netcoreapp2.1/4-print.pdb
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/4-print/obj/Debug/netcoreapp2.1/4-print.dll
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/4-print/obj/Debug/netcoreapp2.1/4-print.pdb

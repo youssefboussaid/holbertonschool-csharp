@@ -1,0 +1,11 @@
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/0-queue.cs/obj/Debug/netcoreapp2.1/0-queue.cs.csprojAssemblyReference.cache
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/0-queue.cs/obj/Debug/netcoreapp2.1/0-queue.cs.csproj.CoreCompileInputs.cache
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/0-queue.cs/obj/Debug/netcoreapp2.1/0-queue.cs.AssemblyInfoInputs.cache
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/0-queue.cs/obj/Debug/netcoreapp2.1/0-queue.cs.AssemblyInfo.cs
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/0-queue.cs/bin/Debug/netcoreapp2.1/0-queue.cs.deps.json
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/0-queue.cs/bin/Debug/netcoreapp2.1/0-queue.cs.runtimeconfig.json
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/0-queue.cs/bin/Debug/netcoreapp2.1/0-queue.cs.runtimeconfig.dev.json
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/0-queue.cs/bin/Debug/netcoreapp2.1/0-queue.cs.dll
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/0-queue.cs/bin/Debug/netcoreapp2.1/0-queue.cs.pdb
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/0-queue.cs/obj/Debug/netcoreapp2.1/0-queue.cs.dll
+/home/youzar/yyy/holbertonschool-csharp/0x0A-csharp-generics/0-queue.cs/obj/Debug/netcoreapp2.1/0-queue.cs.pdb

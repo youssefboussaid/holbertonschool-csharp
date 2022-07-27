@@ -62,7 +62,7 @@ public class Door : Base, IInteractive
     /// <summary>
     /// Constructor
     /// </summary>
-    /// <param name="doorName">Default name of the door</param>
+    /// <param name="Name">Default name of the door</param>
     public Door(string Name = "Door")
     {
         name = Name;

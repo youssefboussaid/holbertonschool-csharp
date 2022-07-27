@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>6-generic_iteration</name>
+    </assembly>
+    <members>
+        <member name="T:IInteractive">
+            <summary>
+            IInteractive: Interface
+            </summary>
+        </member>
+        <member name="M:IInteractive.Interact">
+            <summary>
+            Interact(): method
+            </summary>
+        </member>
+        <member name="T:IBreakable">
+            <summary>
+            IBreakable: Interface
+            </summary>
+        </member>
+        <member name="P:IBreakable.durability">
+            <summary>
+            durability: property
+            </summary>
+        </member>
+        <member name="M:IBreakable.Break">
+            <summary>
+            Break(): method
+            </summary>
+        </member>
+        <member name="T:ICollectable">
+            <summary>
+            ICollectable: intefrace
+            </summary>
+        </member>
+        <member name="P:ICollectable.isCollected">
+            <summary>
+            isCollected: property
+            </summary>
+        </member>
+        <member name="M:ICollectable.Collect">
+            <summary>
+            Collect(): method
+            </summary>
+        </member>
+        <member name="T:Base">
+            <summary>
+            Base: Class
+            </summary>
+        </member>
+        <member name="P:Base.name">
+            <summary>
+            name property: string
+            </summary>
+        </member>
+        <member name="M:Base.ToString">
+            <summary>
+            Override string
+            </summary>
+            <returns>formated string</returns>
+        </member>
+        <member name="T:Door">
+            <summary>
+            Door: class that inherits from the "Base" class and the previous "Interactive" interfaces
+            </summary>
+        </member>
+        <member name="M:Door.#ctor(System.String)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="doorName">Default name of the door</param>
+        </member>
+        <member name="M:Door.Interact">
+            <summary>
+            Implement the method of the "Interact" interface
+            </summary>
+        </member>
+        <member name="T:Decoration">
+            <summary> decoration class </summary>
+        </member>
+        <member name="F:Decoration._durability">
+            <summary> field </summary>
+        </member>
+        <member name="M:Decoration.#ctor(System.String,System.Int32,System.Boolean)">
+            <summary> constructor </summary>
+            <param name="name"> </param>
+            <param name="durability"> </param>
+            <param name="isQuestItem"> </param>
+        </member>
+        <member name="P:Decoration.durability">
+            <summary> durability </summary>
+        </member>
+        <member name="P:Decoration.isQuestItem">
+            <summary> isQuestItem </summary>
+        </member>
+        <member name="M:Decoration.Interact">
+            <summary> inteact methode </summary>
+        </member>
+        <member name="M:Decoration.Break">
+            <summary> break methode </summary>
+        </member>
+        <member name="T:Key">
+            <summary>
+            Class that inherits from the Base class and the ICollectable Interface
+            </summary>
+        </member>
+        <member name="M:Key.#ctor(System.String,System.Boolean)">
+            <summary>
+            Constructor
+            </summary>
+            <param name="name">string</param>
+            <param name="isCollected">boolean</param>
+        </member>
+        <member name="P:Key.isCollected">
+            <summary>
+            isCollected: boolean parameter
+            </summary>
+        </member>
+        <member name="M:Key.Collect">
+            <summary>
+            Implement Collect()
+            </summary>
+        </member>
+        <member name="T:Objs`1">
+            <summary>
+            Class
+            </summary>
+        </member>
+    </members>
+</doc>

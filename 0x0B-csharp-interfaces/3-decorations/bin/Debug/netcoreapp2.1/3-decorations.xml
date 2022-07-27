@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-decorations</name>
+    </assembly>
+    <members>
+        <member name="T:IInteractive">
+            <summary>
+            interface IInteractive
+            </summary>
+        </member>
+        <member name="M:IInteractive.Interact">
+            <summary>
+            interact
+            </summary>
+        </member>
+        <member name="T:IBreakable">
+            <summary>
+            interface IBreakable
+            </summary>
+        </member>
+        <member name="P:IBreakable.durability">
+            <summary>
+            int 
+            </summary>
+        </member>
+        <member name="M:IBreakable.Break">
+            <summary>
+            method
+            </summary>
+        </member>
+        <member name="T:ICollectable">
+            <summary>
+            interface ICollectable
+            </summary>
+        </member>
+        <member name="P:ICollectable.isCollected">
+            <summary>
+            property
+            </summary>
+        </member>
+        <member name="M:ICollectable.Collect">
+            <summary>
+            method
+            </summary>
+        </member>
+        <member name="T:Base">
+            <summary>
+            obstract class
+            </summary>
+        </member>
+        <member name="P:Base.name">
+            <summary>
+            string name
+            </summary>
+        </member>
+        <member name="M:Base.ToString">
+            <summary>
+            Overide ToString Method
+            </summary>
+        </member>
+        <member name="T:Decoration">
+            <summary>
+            test object class inherit from interfaces and obstact class
+            </summary>
+        </member>
+        <member name="F:Decoration.isQuestItem">
+            <summary>
+            isQuestItem
+            </summary>
+        </member>
+        <member name="P:Decoration.durability">
+            <summary>
+            durability
+            </summary>
+        </member>
+        <member name="M:Decoration.#ctor(System.String,System.Int32,System.Boolean)">
+            <summary>
+            Decoration
+            </summary>
+            <param name="name"> the name </param>
+            <param name="durability"> durability</param>
+            <param name="isQuestItem">isQuestItem</param>
+        </member>
+        <member name="M:Decoration.Interact">
+            <summary>
+            Used for interactions
+            </summary>
+        </member>
+        <member name="M:Decoration.Break">
+            <summary>
+            Used for broken item.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -94,7 +94,7 @@ public class Decoration : Base, IInteractive, IBreakable
     {
         if (durability <= 0)
         {
-            Console.WriteLine($"the {name} has been broken");
+            Console.WriteLine($"the {name} has been broken.");
         }
         else if (isQuestItem == true)
         {

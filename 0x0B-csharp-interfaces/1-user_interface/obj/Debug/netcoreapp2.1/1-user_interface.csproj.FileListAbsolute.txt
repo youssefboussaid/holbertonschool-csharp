@@ -1,0 +1,4 @@
+/home/youzar/yyy/holbertonschool-csharp/0x0B-csharp-interfaces/1-user_interface/obj/Debug/netcoreapp2.1/1-user_interface.csprojAssemblyReference.cache
+/home/youzar/yyy/holbertonschool-csharp/0x0B-csharp-interfaces/1-user_interface/obj/Debug/netcoreapp2.1/1-user_interface.csproj.CoreCompileInputs.cache
+/home/youzar/yyy/holbertonschool-csharp/0x0B-csharp-interfaces/1-user_interface/obj/Debug/netcoreapp2.1/1-user_interface.AssemblyInfoInputs.cache
+/home/youzar/yyy/holbertonschool-csharp/0x0B-csharp-interfaces/1-user_interface/obj/Debug/netcoreapp2.1/1-user_interface.AssemblyInfo.cs

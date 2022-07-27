@@ -1,0 +1,11 @@
+/home/youzar/yyy/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/netcoreapp2.1/5-iterate_act.csprojAssemblyReference.cache
+/home/youzar/yyy/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/netcoreapp2.1/5-iterate_act.csproj.CoreCompileInputs.cache
+/home/youzar/yyy/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/netcoreapp2.1/5-iterate_act.AssemblyInfoInputs.cache
+/home/youzar/yyy/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/netcoreapp2.1/5-iterate_act.AssemblyInfo.cs
+/home/youzar/yyy/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/bin/Debug/netcoreapp2.1/5-iterate_act.deps.json
+/home/youzar/yyy/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/bin/Debug/netcoreapp2.1/5-iterate_act.runtimeconfig.json
+/home/youzar/yyy/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/bin/Debug/netcoreapp2.1/5-iterate_act.runtimeconfig.dev.json
+/home/youzar/yyy/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/bin/Debug/netcoreapp2.1/5-iterate_act.dll
+/home/youzar/yyy/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/bin/Debug/netcoreapp2.1/5-iterate_act.pdb
+/home/youzar/yyy/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/netcoreapp2.1/5-iterate_act.dll
+/home/youzar/yyy/holbertonschool-csharp/0x0B-csharp-interfaces/5-iterate_act/obj/Debug/netcoreapp2.1/5-iterate_act.pdb

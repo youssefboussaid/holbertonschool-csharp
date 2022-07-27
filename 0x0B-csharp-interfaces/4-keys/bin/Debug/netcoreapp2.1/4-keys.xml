@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>4-keys</name>
+    </assembly>
+    <members>
+        <member name="T:IInteractive">
+            <summary>
+            interface IInteractive
+            </summary>
+        </member>
+        <member name="M:IInteractive.Interact">
+            <summary>
+            interact
+            </summary>
+        </member>
+        <member name="T:IBreakable">
+            <summary>
+            interface IBreakable
+            </summary>
+        </member>
+        <member name="P:IBreakable.durability">
+            <summary>
+            int 
+            </summary>
+        </member>
+        <member name="M:IBreakable.Break">
+            <summary>
+            method
+            </summary>
+        </member>
+        <member name="T:ICollectable">
+            <summary>
+            interface ICollectable
+            </summary>
+        </member>
+        <member name="P:ICollectable.isCollected">
+            <summary>
+            property
+            </summary>
+        </member>
+        <member name="M:ICollectable.Collect">
+            <summary>
+            method
+            </summary>
+        </member>
+        <member name="T:Base">
+            <summary>
+            obstract class
+            </summary>
+        </member>
+        <member name="P:Base.name">
+            <summary>
+            string name
+            </summary>
+        </member>
+        <member name="M:Base.ToString">
+            <summary>
+            Overide ToString Method
+            </summary>
+        </member>
+        <member name="T:Key">
+            <summary>
+            test object class inherit from interfaces and obstact class
+            </summary>
+        </member>
+        <member name="P:Key.isCollected">
+            <summary>
+            is Collected bool
+            </summary>
+        </member>
+        <member name="M:Key.#ctor(System.String,System.Boolean)">
+            <summary>
+            initialise a Key object
+            </summary>
+            <param name="name"> string</param>
+            <param name="isCollected"> key is collected or not</param>
+        </member>
+        <member name="M:Key.Collect">
+            <summary>
+            Collect the key
+            </summary>
+        </member>
+    </members>
+</doc>

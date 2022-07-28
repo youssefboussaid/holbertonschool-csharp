@@ -13,7 +13,7 @@
         {
             this.name = name;
             if (maxHp <= 0){
-                this.maxHp = 100f;
+                maxHp = 100f;
                 Console.WriteLine("maxHp must be greater than 0. maxHp set to 100f by default.");
             }
             this.hp = maxHp;
@@ -22,6 +22,6 @@
 
         public void PrintHealth()
         {
-            Console.WriteLine("{0} has {1} / {2} health", this.name, this.hp, this.maxHp);
+            Console.WriteLine($"{this.name} has {this.hp} / {this.maxHp} health");
         }
     }

@@ -93,19 +93,43 @@
         {
             return baseValue;
         }
+        else if (modifier == Modifier.Strong)
+        {
+            return (baseValue*1.5f);
+        }
         else
         {
-            return baseValue*1.5f;
+            return baseValue;
         }
     }
     }
 
+    /// <summary>
+    /// Damage or Heal modifier
+    /// </summary>
     public enum Modifier{
+    /// <summary>
+    /// Weak modifier
+    /// </summary>
         Weak,
-        Base,
-        Strong
-    }
 
+    /// <summary>
+    /// Base modifier
+    /// </summary>
+        Base,
+
+    /// <summary>
+    /// Strong modifier
+    /// </summary>
+        Strong
+
+    }
+    /// <summary>
+/// CalculateModifier: delegate
+/// </summary>
+/// <param name="baseValue">float</param>
+/// <param name="modifier">Modifier</param>
+/// <returns>float</returns>
     public delegate float CalculateModifier(float baseValue, Modifier modifier);
 
     

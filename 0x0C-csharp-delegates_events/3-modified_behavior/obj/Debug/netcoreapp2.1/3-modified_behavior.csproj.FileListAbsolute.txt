@@ -9,3 +9,4 @@
 /home/youzar/yyy/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/bin/Debug/netcoreapp2.1/3-modified_behavior.pdb
 /home/youzar/yyy/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/netcoreapp2.1/3-modified_behavior.dll
 /home/youzar/yyy/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/netcoreapp2.1/3-modified_behavior.pdb
+/home/youzar/yyy/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/bin/Debug/netcoreapp2.1/3-modified_behavior.xml

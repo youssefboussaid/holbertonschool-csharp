@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>4-check_yourself</name>
+    </assembly>
+    <members>
+        <member name="T:Player">
+            <summary>
+            class player 
+            </summary>
+        </member>
+        <member name="M:Player.TakeDamage(System.Single)">
+            <summary>
+            TakeDamage: method
+            </summary>
+            <param name="damage">float</param>
+        </member>
+        <member name="M:Player.HealDamage(System.Single)">
+            <summary>
+            HealDamage: method
+            </summary>
+            <param name="heal">float</param>
+        </member>
+        <member name="T:Modifier">
+            <summary>
+            Damage or Heal modifier
+            </summary>
+        </member>
+        <member name="F:Modifier.Weak">
+            <summary>
+            Weak modifier
+            </summary>
+        </member>
+        <member name="F:Modifier.Base">
+            <summary>
+            Base modifier
+            </summary>
+        </member>
+        <member name="F:Modifier.Strong">
+            <summary>
+            Strong modifier
+            </summary>
+        </member>
+        <member name="T:CalculateModifier">
+            <summary>
+            CalculateModifier: delegate
+            </summary>
+            <param name="baseValue">float</param>
+            <param name="modifier">Modifier</param>
+            <returns>float</returns>
+        </member>
+        <member name="T:CurrentHPArgs">
+            <summary>
+            CurrentHPArgs class that inherits from EventArgs.
+            </summary>
+        </member>
+        <member name="F:CurrentHPArgs.currentHp">
+            <summary>
+            Player's current health.
+            </summary>
+        </member>
+        <member name="M:CurrentHPArgs.#ctor(System.Single)">
+            <summary>
+            constructor.
+            </summary>
+            <param name="newHp">The new value of health.</param>
+        </member>
+    </members>
+</doc>

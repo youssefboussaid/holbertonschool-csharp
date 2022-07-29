@@ -90,21 +90,16 @@
     }
     public float ApplyModifier(float baseValue, Modifier modifier)
     {
-        if (modifier == Modifier.Weak)
+        switch (modifier)
         {
-            return (baseValue*0.5f);
-        }
-        else if (modifier == Modifier.Base)
-        {
-            return baseValue;
-        }
-        else if (modifier == Modifier.Strong)
-        {
-            return (baseValue*1.5f);
-        }
-        else
-        {
-            return default(float);
+            case Modifier.Weak:
+                return baseValue * 0.5f;
+            case Modifier.Base:
+                return baseValue;
+            case Modifier.Strong:
+                return baseValue * 1.5f;
+            default:
+                return default(float);
         }
     }
 

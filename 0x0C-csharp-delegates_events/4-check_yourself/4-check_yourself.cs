@@ -20,7 +20,7 @@
             }
             this.hp = maxHp;
             this.maxHp = maxHp;
-            status = $"{this.name}  is ready to go!";
+            status = $"{this.name} is ready to go!";
             HPCheck += CheckStatus;
         }
 

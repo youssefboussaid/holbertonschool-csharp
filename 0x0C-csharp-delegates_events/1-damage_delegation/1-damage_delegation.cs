@@ -25,31 +25,41 @@
             Console.WriteLine($"{this.name} has {this.hp} / {this.maxHp} health");
         }
     
-    public delegate void CalculateHealth(float damage);
-    
-    public void TakeDamage(float damage)
-        {
-            if (damage < 0)
-            {
-                damage = 0f;
-                Console.WriteLine($"{name} takes 0 damage!");
-            }
-            else
-            {
-                Console.WriteLine("{0} takes {1} damage!", this.name, damage);    
-            }
-            
-        }
+    public delegate void CalculateHealth(float amount);
 
-    public void HealDamage(float heal)
+	/// <summary>
+	/// TakeDamage: method
+	/// </summary>
+	/// <param name="damage">float</param>
+	public void TakeDamage(float damage)
+    {
+		if(damage < 0)
         {
-            if (heal < 0)
-            {
-                heal = 0f;
-                Console.WriteLine($"{name} heals 0 HP!");
-            }
-            Console.WriteLine("{0} heals {1} damage!", this.name, heal);
+			damage = 0f;
+			Console.WriteLine($"{name} takes 0 damage!");
         }
+        else
+        {
+			Console.WriteLine($"{name} takes {damage} damage!");
+        }
+    }
+
+	/// <summary>
+	/// HealDamage: method
+	/// </summary>
+	/// <param name="heal">float</param>
+	public void HealDamage(float heal)
+    {
+		if(heal < 0)
+        {
+			heal = 0f;
+			Console.WriteLine($"{name} heals 0 HP!");
+        }
+        else
+        {
+			Console.WriteLine($"{name} heals {heal} HP!");
+        }
+    }
     
     }
 

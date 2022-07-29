@@ -32,9 +32,13 @@
             if (damage < 0)
             {
                 damage = 0f;
+                Console.WriteLine($"{name} takes 0 damage!");
             }
-            Console.WriteLine("{0} takes {1} damage!", this.name, damage);
-            hp-=damage;
+            else
+            {
+                Console.WriteLine("{0} takes {1} damage!", this.name, damage);    
+            }
+            
         }
 
     public void HealDamage(float heal)
@@ -42,9 +46,9 @@
             if (heal < 0)
             {
                 heal = 0f;
+                Console.WriteLine($"{name} heals 0 HP!");
             }
             Console.WriteLine("{0} heals {1} damage!", this.name, heal);
-            hp+= heal;
         }
     
     }

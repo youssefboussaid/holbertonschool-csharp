@@ -25,12 +25,13 @@
             Console.WriteLine($"{this.name} has {this.hp} / {this.maxHp} health");
         }
     
-
+    public delegate void CalculateHealth(float damage);
+    
     public void TakeDamage(float damage)
         {
             if (damage < 0)
             {
-                damage = 0;
+                damage = 0f;
             }
             Console.WriteLine("{0} takes {1} damage!", this.name, damage);
             hp-=damage;
@@ -40,12 +41,12 @@
         {
             if (heal < 0)
             {
-                heal = 0;
+                heal = 0f;
             }
             Console.WriteLine("{0} heals {1} damage!", this.name, heal);
             hp+= heal;
         }
-    public delegate void CalculateHealth(float damage);
+    
     }
 
 

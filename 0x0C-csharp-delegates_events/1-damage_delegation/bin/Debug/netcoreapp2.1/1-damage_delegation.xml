@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-damage_delegation</name>
+    </assembly>
+    <members>
+        <member name="T:Player">
+            <summary>
+            class player 
+            </summary>
+        </member>
+    </members>
+</doc>

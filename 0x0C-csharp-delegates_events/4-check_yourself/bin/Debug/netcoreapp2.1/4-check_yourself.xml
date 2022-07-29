@@ -21,6 +21,18 @@
             </summary>
             <param name="heal">float</param>
         </member>
+        <member name="E:Player.HPCheck">
+            <summary>
+            Event Handler.
+            </summary>
+        </member>
+        <member name="M:Player.CheckStatus(System.Object,CurrentHPArgs)">
+            <summary>
+            CheckStatus: method.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">List of arguments.</param>
+        </member>
         <member name="T:Modifier">
             <summary>
             Damage or Heal modifier

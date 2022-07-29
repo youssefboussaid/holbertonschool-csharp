@@ -104,12 +104,19 @@
         }
         else
         {
-            return baseValue;
+            return default(float);
         }
     }
 
-
+    /// <summary>
+    /// Event Handler.
+    /// </summary>
     public event  EventHandler<CurrentHPArgs> HPCheck;
+    /// <summary>
+    /// CheckStatus: method.
+    /// </summary>
+    /// <param name="sender">The sender.</param>
+    /// <param name="e">List of arguments.</param>
 
     private void CheckStatus(object sender, CurrentHPArgs e)
     {
